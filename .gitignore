@@ -1,0 +1,9 @@
+dni
+ip/.qsys_edit
+ip/pll
+ip/reset_release
+output_files
+qdb
+tmp-clearbox
+*.qdf
+*.qws
